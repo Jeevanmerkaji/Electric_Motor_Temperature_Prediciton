@@ -1,2 +1,2 @@
-# Electric_Motor_Temperature_Prediciton
-Electric_Motor_temperature_prediciton
+# Energy-consumption-prediction-using-LSTM
+Developed an energy consumption forecasting model using the LSTM (Long Short-Term Memory) algorithm for an univariate analysis
